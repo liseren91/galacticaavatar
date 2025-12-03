@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Star Wars Swapper",
+  "description": "Пакетная обработка фото коллег в персонажей Звездных Войн с использованием модели Nano Banana (Gemini 2.5 Flash Image).",
+  "requestFramePermissions": []
+}
